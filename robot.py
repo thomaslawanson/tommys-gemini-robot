@@ -197,4 +197,14 @@ while True:
     print()
 
 
-# git config --global user.email "you@example.com" git config --global user.name "Your Name" to set your account's default identity
+# GitHub is used when multiple engineers are working on the same project
+# So that, when one of them makes a change, all of them receive it with ease and they can keep up
+# to date with each other
+
+# Or, you can use it on your own so you can share your project with others along with its different versions.
+# as it helps you detect the changes easily from a version to another
+
+#well in real life push is to send things away but pull is the opposite
+# Commit: Save your changes locally on your computer
+# Push:  Send your changes (which is your last commmit) online to the repo
+# Pull: Requesting/receiving the online version from the repo to your computer locally
